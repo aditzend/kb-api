@@ -1,0 +1,13 @@
+Reimpresión							
+	Reimpresiones para licencias prorrogadas						
+	¿Cuáles son los requisitos?						
+		Tener DNI Vigente con domicilio en la Ciudad.					
+		No haber sufrido modificaciones en tu aptitud psicofísica.					
+	Pasos para realizar el trámite						
+		Certificado Nacional de Antecedentes de Tránsito (CENAT)					
+			Aboná el Certificado Nacional de Antecedentes de Tránsito (CENAT) (60 días de validez, una vez abonado).				
+		Solicitá tu reimpresión de licencia y aboná la boleta del trámite					
+			Tené en cuenta que las entregas solo se realizan dentro de la Ciudad.				
+			La demora estimada del trámite es de hasta 15 días hábiles.				
+		Iniciá tu trámite.					
+			https://login.buenosaires.gob.ar/auth/realms/miba/protocol/openid-connect/auth?client_id=tramites-digitales-sitd&redirect_uri=https://tramitesdigitales.buenosaires.gob.ar/authentication&response_type=code&scope=openid%20profile%20email%20address%20extra&state=zm565g				
